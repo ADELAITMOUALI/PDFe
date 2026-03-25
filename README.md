@@ -27,4 +27,3 @@ The app's logic automatically adapts the user interface to match your preferred 
 Simply open any PDF file on your device, and select **PDFe** to enjoy a superior reading experience.
 
 ---
-Built with ❤️ using Flutter and Dart.
