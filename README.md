@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/icons/logo.png" alt="PDFe Logo" width="120"/>
+</p>
+
 # PDFe - Blazing-fast PDF Experience
 
 PDFe is a lightweight, high-performance PDF reader built for speed and fidelity. Designed with a focus on zero-bloat and maximum readability, it provides a premium reading experience across Android and iOS.
